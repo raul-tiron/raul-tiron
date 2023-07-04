@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raul</h1>
-<h3 align="center">Your average TypeScript Enjoyer. 🗿</h3>
-
-- 🌱 I’m currently learning **Rust 🦀**
+<h3 align="center">TypeScript Enjoyer. 🗿</h3>
 
 - 📫 How to reach me: **tiron9504@gmail.com**
 
